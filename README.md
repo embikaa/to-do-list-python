@@ -25,10 +25,6 @@ The main goal of this project is to:
 - Improve list, loop, and condition handling
 - Simulate real-life task management logic
 
-## Screenshot
-
-> You can add a screenshot here from Colab output, like task adding or menu.
-
 ## Project Files
 
 - `to_do_list(1).ipynb`: Main application file
